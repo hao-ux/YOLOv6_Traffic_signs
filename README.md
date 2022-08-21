@@ -1,6 +1,6 @@
 # Tensorflow2实现YOLOv6交通标志检测
 
-此代码是基于https://github.com/bubbliiiing/yolox-tf2编写的，大部分保留了源代码。
+此代码是基于 https://github.com/bubbliiiing/yolox-tf2 编写的，大部分保留了源代码。
 
 ## 1. 环境配置
 
